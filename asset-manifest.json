@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0be6d117.css",
+    "main.js": "/static/js/main.4c5bc43e.js",
+    "static/js/787.33b9294a.chunk.js": "/static/js/787.33b9294a.chunk.js",
+    "static/media/producthomebackground.jpg": "/static/media/producthomebackground.11ce022ce45cb4d89924.jpg",
+    "static/media/apply-background.jpg": "/static/media/apply-background.e582d2583c96542d8e69.jpg",
+    "static/media/qtproduct1.jpg": "/static/media/qtproduct1.fd42961a931fc4882afb.jpg",
+    "static/media/qtproduct2.jpg": "/static/media/qtproduct2.63dbda499e37b79221d8.jpg",
+    "static/media/greylogo.png": "/static/media/greylogo.ec3f56aa5edd70527fa6.png",
+    "static/media/beanbag.jpg": "/static/media/beanbag.e4dcd1b4f078469e2c63.jpg",
+    "static/media/background2.jpg": "/static/media/background2.986238f09d4aa17231fc.jpg",
+    "static/media/footerbackground.jpg": "/static/media/footerbackground.cbbd142bbdf788120f40.jpg",
+    "static/media/Nunito-Medium.ttf": "/static/media/Nunito-Medium.a7c01ee77faba77e24c1.ttf",
+    "static/media/Nunito-Light.ttf": "/static/media/Nunito-Light.0ec468f65958d1263b60.ttf",
+    "static/media/Nunito-Regular.ttf": "/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
+    "static/media/Nunito-Bold.ttf": "/static/media/Nunito-Bold.f4338623f94e6079de97.ttf",
+    "static/media/Nunito-ExtraBold.ttf": "/static/media/Nunito-ExtraBold.99f1fa27c5aaa2c5afb6.ttf",
+    "static/media/Nunito-ExtraLight.ttf": "/static/media/Nunito-ExtraLight.52e1b77fe0519dcdcc7f.ttf",
+    "static/media/notfound.jpg": "/static/media/notfound.c37f2921155f17fdc688.jpg",
+    "static/media/bank.png": "/static/media/bank.33b8739e72e58eb7c017.png",
+    "static/media/defaultuser.png": "/static/media/defaultuser.e549f5f3dbb0a0fea043.png",
+    "static/media/cash.jpg": "/static/media/cash.a620fc0256e666e45dcf.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.0be6d117.css.map": "/static/css/main.0be6d117.css.map",
+    "main.4c5bc43e.js.map": "/static/js/main.4c5bc43e.js.map",
+    "787.33b9294a.chunk.js.map": "/static/js/787.33b9294a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be6d117.css",
+    "static/js/main.4c5bc43e.js"
+  ]
+}
